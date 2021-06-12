@@ -8,7 +8,6 @@ variable "bucket_name_prefix" {
     default =""
 }
 
-
 variable "dist_aliases" {
   default = []
 }
